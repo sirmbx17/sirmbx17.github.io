@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
 
-You can use the [editor on GitHub](https://github.com/sirmbx17/sirmbx17.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
+    <title>Profile</title>
+    </head>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<body>
+    
 
-```markdown
-Syntax highlighted code block
+    
+    
+    </body>
 
-# Header 1
-## Header 2
-### Header 3
+   <h1> Sirak Berhane </h1>
+   <h2> Software Engineer / Computer Programmer / AI Enthusiast               </h2>
+    
+    <h3> Education </h3>
+    
+    <pre>                   
+     OAK PARK HIGH SCHOOL – Kansas City /MO
+       High School Diploma, 
+         May 2011      
+         GPA 3.2
 
-- Bulleted
-- List
+      University of Missouri – Kansas City/MO 
+        Computer science
+         2014 – 2016         
+         GPA 3.3
+                                                  
+     Park University – Parkville /MO
+         Computer science 
+           2016 – Present  
+           GPA 3.4                               
+    
+     </pre>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+   <h4>   Skills </h4>
+    
+    <pre>
 
-[Link](url) and ![Image](src)
-```
+•	Excellent Experience with CAD (Autodesk, blender) one year of high    school (college level) engineering CAD.
+•	Excellent written and verbal communication skills 
+•	Intermediate knowledge in Aptana Studio, Visual Studios etc. 
+•	Experienced in Python. SQL, java,
+•	Knowledge of PHP, Html, 
+•	Certified on all Samsung tablets, smartphones and wireless accessories 
+•	Experience with most Mobile and Pc operating systems.  
+•	Experience with using Microsoft office, windows XP, Vista and 7
+•	Experience with networking and protocols (TCP/IP) and Ip Routing 
+•	Experience with Microsoft active directory 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sirmbx17/sirmbx17.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    </pre>
+    
+<a href="https://github.com/sirmbx17"target =_ "blank">  Link to my Github Repo </a>
+    
+    
+    
+</html>
